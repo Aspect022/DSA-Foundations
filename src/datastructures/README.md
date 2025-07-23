@@ -1,32 +1,37 @@
-# 🧠 Algorithms in Java
+# 📦 Data Structures in Java
 
-This folder contains Java implementations of fundamental algorithms including searching, sorting, recursion, dynamic programming, and more.
+This folder contains Java implementations of core data structures, organized topic-wise.  
+Each data structure is implemented from scratch with focus on clarity, modularity, and reusability.
 
 ---
 
 ## ✅ Covered So Far
 
-- [ ] Searching – Linear, Binary
-- [ ] Sorting – Bubble, Merge, Quick, etc.
-- [ ] Recursion
-- [ ] Backtracking
-- [ ] Dynamic Programming
-- [ ] Greedy Techniques
+- [x] Arrays
+- [ ] Strings
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Trees
+- [ ] Graphs
+- [ ] Hash Maps & Sets
 
 ---
 
 ## 📁 Folder Guide
 
-- `searching/` → Linear Search, Binary Search (Recursive/Iterative)
-- `sorting/` → Bubble, Selection, Insertion, Merge, Quick, etc.
-- `recursion/` → Factorial, Fibonacci, Subsets
-- `backtracking/` → N-Queens, Rat in Maze, Word Search
-- `dynamicprogramming/` → Knapsack, LIS, Coin Change, etc.
-- `greedy/` → Activity Selection, Fractional Knapsack
+- `arrays/` → Basics, Searching, Prefix Sum, Sliding Window, etc.
+- `strings/` → Palindromes, Anagrams, Pattern Matching
+- `linkedlist/` → Singly, Doubly, Reverse, Detect Cycle
+- `stack/` → Stack using Array/LinkedList, Valid Parentheses, etc.
+- `queue/` → Circular Queue, Deque, etc.
+- `tree/` → Traversals, Height, Mirror, etc.
+- `graph/` → Adjacency List, DFS, BFS
 
 ---
 
-Each algorithm includes:
-- Java class with clear logic
-- Sample problem statements
-- Test cases or output examples
+🛠️ Each topic includes:
+- Core implementation classes
+- Key problems for that DS
+- Unit tests or `main()` for quick demo
+
