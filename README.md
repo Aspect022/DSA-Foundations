@@ -49,22 +49,6 @@ Each folder contains topic-wise Java classes, implemented with:
 - Inline comments
 - Sample test cases (where possible)
 
----
-
-## ✅ Topics Covered (in progress)
-
-- [x] Arrays – Insert, Delete, Update, Traverse
-- [ ] Arrays – Searching (Linear, Binary)
-- [ ] Arrays – Sliding Window, Prefix Sum
-- [ ] Strings – Java functions, Palindrome check, Anagram detection
-- [ ] Linked List – Creation, Reversal, Cycle detection
-- [ ] Stack, Queue – Custom implementation and application
-- [ ] Trees – DFS, BFS, Traversals
-- [ ] Graphs – BFS, DFS, Shortest Path
-- [ ] Sorting Algorithms – Bubble, Selection, Merge, Quick, etc.
-- [ ] Recursion & Backtracking – Combinations, Permutations, N-Queens
-- [ ] Dynamic Programming – Classic problems (Knapsack, LIS, etc.)
-- [ ] Greedy Algorithms
 
 ---
 
@@ -84,7 +68,3 @@ To run:
 ## 🌱 Contributions
 
 This is a personal reset repo — but feel free to fork it, star it ⭐, or use the structure for your own DSA journey!
-
----
-
-
